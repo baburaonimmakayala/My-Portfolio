@@ -786,6 +786,11 @@ nav {
     font-weight: 300;
     letter-spacing: 2px;
 }
+.project-meta a {
+    color: #a600ff;
+    font-weight: bold;
+}
+
 .project-link {
     position: absolute;
     background-color: #a600ff;
